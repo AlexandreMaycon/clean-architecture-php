@@ -1,2 +1,2 @@
 # clean-architecture-php
-Curso feito pela plataforma alura, sobre arquitetura limpa com php.
+Concluí um curso na plataforma Alura que abordou a implementação de arquitetura limpa utilizando PHP.
